@@ -2,6 +2,7 @@
 # koordinatasi bilan berilgan. Berilgan nuqtadan uchburchak
 # tomonlarigacha bo'lan eng yaqin masofa topilsin.
 #//uchburchak ichidagi biron nuqtadan tomonlarigacha bo'lgan perpendikulyarlar yig'indisi uchburchak balandligiga teng.
+#BU oddiy ko'rinishi kuchliroq ko'rinishini 8_topshiriq fayliga tashlab qo'yaman
 x = [1,2] 
 y = [5,2]
 z = [3,6]
