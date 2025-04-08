@@ -68,28 +68,6 @@ l.Add(3)
 l.Delete(1)
 l.Print()
 
-#  Berilgan qiymatli birinchi elementni takrorlang.
-
-# class CustomList:
-#     def __init__(self, elements):
-#         """ Ro'yxatni boshlash """
-#         self.data = elements if elements else []
-
-#     def repeat_first(self, times):
-#         """ Berilgan qiymatli birinchi elementni 'times' marta takrorlash """
-#         if self.data:  # Agar ro'yxat bo'sh bo'lmasa
-#             first_element = self.data[0]  # Birinchi elementni olamiz
-#             self.data = [first_element] * times + self.data[1:]  # Takrorlaymiz
-
-#     def display(self):
-#         """ Ro'yxatni ekranga chiqarish """
-#         print(self.data)
-
-
-# # ✅ Test qilish
-# clist = CustomList([5, 10, 15, 20])
-# clist.repeat_first(3)  # Birinchi elementni 3 marta takrorlash
-# clist.display()  # ➝ [5, 5, 5, 10, 15, 20]
 
 
 
